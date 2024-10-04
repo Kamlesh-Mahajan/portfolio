@@ -1723,6 +1723,10 @@ video {
     width: auto;
   }
 
+  .max-lg\:w-full {
+    width: 100%;
+  }
+
   .max-lg\:flex-col {
     flex-direction: column;
   }
