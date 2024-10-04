@@ -20,7 +20,7 @@ module.exports = {
         }
       },
       animation: {
-        slideInLeft: "slideInLeft 0.2s ease-in-out forwards" // You can adjust the duration
+        slideInLeft: "slideInLeft 0.2s ease-in-out forwards"
       }
     }
   },
