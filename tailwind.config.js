@@ -21,6 +21,9 @@ module.exports = {
       },
       animation: {
         slideInLeft: "slideInLeft 0.2s ease-in-out forwards"
+      },
+      screens: {
+        "custom-lg": "1100px"
       }
     }
   },
